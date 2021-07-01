@@ -1,0 +1,24 @@
+#des{
+    position: absolute;
+    top: 200px;
+    left: 42px;
+}
+
+#fi{
+    position: absolute;
+    top: 230px;
+    left: 42px;
+}
+
+#sub{
+    position: absolute;
+    top: 265px;
+    left: 42px;
+    border-radius: 80px;
+}
+
+#cim{
+    position: absolute;
+    top: 260px;
+    left: 700px;
+}
